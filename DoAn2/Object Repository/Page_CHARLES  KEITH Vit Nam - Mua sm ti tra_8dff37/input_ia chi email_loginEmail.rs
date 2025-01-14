@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2cdc45aa-cf57-42ae-9b67-4cd19fdf3e99</webElementGuid>
+      <webElementGuid>80357f47-ceb0-4120-ae2c-ee5d60b4a026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>c8f628a2-0b01-4fec-ba03-8460a2e8827d</webElementGuid>
+      <webElementGuid>385bac28-2e18-44d1-a166-aef2d9ecfb8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>on</value>
-      <webElementGuid>b87f8e64-f608-42eb-b8ee-2b09f58f2a2c</webElementGuid>
+      <value>username</value>
+      <webElementGuid>e050530c-2e6f-4396-94a5-3a589ef68e9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control js-email-input-with-suggestions email_input--with_suggestions</value>
-      <webElementGuid>6b79490d-5eb8-4a57-a717-f93a754a8fdc</webElementGuid>
+      <webElementGuid>eb6c10c2-e6f3-4885-88b3-b0aaf081b3bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>loginEmail</value>
-      <webElementGuid>5fce2bd3-2dd8-4f39-89f9-5ef4f152e149</webElementGuid>
+      <webElementGuid>ddf3177b-be9c-415a-93a0-9628ec16efd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Địa chỉ email</value>
-      <webElementGuid>23a305cc-6642-41d0-9a57-b15dc0122867</webElementGuid>
+      <webElementGuid>63818e6b-cf11-446b-af9b-46287f287c19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-missing-error</name>
       <type>Main</type>
       <value>Trường này là bắt buộc</value>
-      <webElementGuid>82354d37-7197-4d01-a652-94e0b07c700b</webElementGuid>
+      <webElementGuid>35a942ea-fa77-4914-b070-3361f6624d4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-type-mismatch</name>
       <type>Main</type>
       <value>Địa chỉ email không hợp lệ</value>
-      <webElementGuid>7570412f-0df6-40d9-b966-f338b9c7d831</webElementGuid>
+      <webElementGuid>6e47014c-f440-47c1-bdfc-d7e34d730b0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-pattern-mismatch</name>
       <type>Main</type>
       <value>Địa chỉ email không hợp lệ</value>
-      <webElementGuid>12a90ea6-a062-49e3-a9e7-d4f0c400373b</webElementGuid>
+      <webElementGuid>5cc3213e-0484-4818-b13d-dc11f21b028d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>data-validation-group</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>b6bd6bbb-0946-45c8-ac2f-9abdbf94915d</webElementGuid>
+      <webElementGuid>014bef7f-ca97-4e87-81dc-b71b957d12ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>^[A-Za-z0-9][\w%+-]*(?:\.[\w%+-]+)*@[A-Za-z0-9][\w.-]*\.[A-Za-z]{2,6}$</value>
-      <webElementGuid>4a3324a1-7c45-4f8c-bd44-5698482c7404</webElementGuid>
+      <webElementGuid>11d31ca2-4396-4dae-a7c6-144b33cbda0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;js-page-data page page--has_header  page--home&quot;]/header[@class=&quot;page_header page_header--sticky&quot;]/div[@class=&quot;container-fluid container-fluid-md container-hd page_header-inner  js-logo_wrapper&quot;]/div[@class=&quot;page_header-item page_header-txt page_header-login&quot;]/div[@class=&quot;header_login user dropdown position-static show&quot;]/div[@class=&quot;js-header_login-menu--unregistered dropdown-menu header_login-menu header_login-menu--unregistered show&quot;]/div[@class=&quot;header_login-menu_content&quot;]/form[@class=&quot;js-login_form login_form js-chain_inline_validation_form&quot;]/div[@class=&quot;form-group c-dynamic_field custom_email_field active focused&quot;]/input[@class=&quot;form-control js-email-input-with-suggestions email_input--with_suggestions&quot;]</value>
-      <webElementGuid>7e83a7dc-7268-4a68-b2f7-2d3977d973f6</webElementGuid>
+      <webElementGuid>abfac47f-ba4d-4078-a844-940a4c8e5a41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='loginEmail']</value>
-      <webElementGuid>a26cbb00-2457-4cb7-b450-3b83e49a11e4</webElementGuid>
+      <webElementGuid>b16eccf6-f0be-465d-af6c-5bb8a1c6b76d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>b1320378-d013-4205-96c9-e4bead031150</webElementGuid>
+      <webElementGuid>2e8524bf-2ba4-45ae-95dc-d3203326ad47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @name = 'loginEmail' and @placeholder = 'Địa chỉ email']</value>
-      <webElementGuid>035929a0-8089-419e-bb87-1625276b5a0a</webElementGuid>
+      <webElementGuid>ea669330-9ee2-411c-8d1b-21dff629c009</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

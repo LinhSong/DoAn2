@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>96f33075-d8cd-4863-b075-7d65f4112b67</webElementGuid>
+      <webElementGuid>b37b38cb-0d8c-48a2-8dc8-fd9bcbab6442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>5e80e85d-97a0-4433-bb51-7d30718c596f</webElementGuid>
+      <webElementGuid>2709c28f-81a8-4f58-ab6e-4c7afc86a1e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-block btn-primary btn-primary--hover header_login-sign_in</value>
-      <webElementGuid>08e90535-e935-47cc-925e-7bcced09c0cc</webElementGuid>
+      <webElementGuid>237dc3f3-21da-4973-827c-5463795aede7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
                 Đăng nhập
             
         </value>
-      <webElementGuid>24cabb0c-107b-4506-971d-d4cdc1b14bdf</webElementGuid>
+      <webElementGuid>52911826-c10f-4c6e-b33e-f3be73ab39ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;js-page-data page page--has_header  page--home&quot;]/header[@class=&quot;page_header page_header--sticky&quot;]/div[@class=&quot;container-fluid container-fluid-md container-hd page_header-inner  js-logo_wrapper&quot;]/div[@class=&quot;page_header-item page_header-txt page_header-login&quot;]/div[@class=&quot;header_login user dropdown position-static show&quot;]/div[@class=&quot;js-header_login-menu--unregistered dropdown-menu header_login-menu header_login-menu--unregistered show&quot;]/div[@class=&quot;header_login-menu_content&quot;]/form[@class=&quot;js-login_form login_form js-chain_inline_validation_form&quot;]/button[@class=&quot;btn btn-block btn-primary btn-primary--hover header_login-sign_in&quot;]</value>
-      <webElementGuid>c1416a7f-12fe-41ea-93a5-1a493f7f3810</webElementGuid>
+      <webElementGuid>11c252bf-e7e1-44a2-bc40-7d34d01c3b4c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>87ce12c8-0f1b-4311-82f0-1eb136286840</webElementGuid>
+      <webElementGuid>e9ef77f2-2b86-42a4-a55f-9e009002013d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trường này là bắt buộc'])[2]/following::button[1]</value>
-      <webElementGuid>41dc2a97-ab0b-4e2b-95c8-84d1bd252b36</webElementGuid>
+      <webElementGuid>7db1b5f4-584d-4548-929f-8c6d2eeb94be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu'])[1]/following::button[1]</value>
-      <webElementGuid>c1cdf7e1-409a-450c-b678-45150b47a07b</webElementGuid>
+      <webElementGuid>7b9ef0e3-fddf-4e7a-b49a-a6521bdb6101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ghi nhớ tôi'])[1]/preceding::button[1]</value>
-      <webElementGuid>f5cf0717-2733-4dd6-9741-552e5ee50bdc</webElementGuid>
+      <webElementGuid>e4f3b367-868f-46b0-8389-e1a3c15dcc4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/preceding::button[1]</value>
-      <webElementGuid>bf6c62e9-23a1-4bea-ac79-7056eb281180</webElementGuid>
+      <webElementGuid>66e12b80-fffa-4464-b95c-1c44ba92aa40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>f0f07945-844b-4f74-9592-e1cf5660cec0</webElementGuid>
+      <webElementGuid>cda5b367-a8c6-4714-a3d0-8b72f0506ed2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
                 Đăng nhập
             
         ')]</value>
-      <webElementGuid>b7fd2b8e-129f-46ce-bebd-93bcdf6105e8</webElementGuid>
+      <webElementGuid>fa133e9f-e0f1-434b-92a4-df3a3eb1f27e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b5d28cef-c66a-4bb8-9ea3-cc7580f63c82</webElementGuid>
+      <webElementGuid>ee934ced-8001-442d-beb4-780856f0b8a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>header_login-msg user-message header_link-text</value>
-      <webElementGuid>9083ef4b-f2e5-4c21-84ce-564c910a3a44</webElementGuid>
+      <webElementGuid>4d1abde6-a405-4355-999e-5bdfa283ad2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>23429dff-f9a7-4bc0-b24d-ea6d32efb84e</webElementGuid>
+      <webElementGuid>7bd8fcbf-aeb6-4e76-bae2-2338cc9d11d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;js-page-data page page--has_header  page--home&quot;]/header[@class=&quot;page_header page_header--sticky&quot;]/div[@class=&quot;container-fluid container-fluid-md container-hd page_header-inner  js-logo_wrapper&quot;]/div[@class=&quot;page_header-item page_header-txt page_header-login&quot;]/div[@class=&quot;header_login user dropdown&quot;]/a[@class=&quot;js-header_login-link header_login-link header_link d-none d-lg-inline-block&quot;]/span[@class=&quot;header_login-msg user-message header_link-text&quot;]</value>
-      <webElementGuid>21be610d-578c-491a-a978-c36c8f9e63b0</webElementGuid>
+      <webElementGuid>3df0ca8f-f826-486f-af14-57b550214f5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TÌM CỬA HÀNG'])[1]/following::span[1]</value>
-      <webElementGuid>da677a8b-9700-44b3-9fe3-ede481b1570b</webElementGuid>
+      <webElementGuid>3aaae662-c162-4aa2-bc5b-b1a0bb74cf67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếng Việt'])[1]/following::span[2]</value>
-      <webElementGuid>4fcadbdb-c498-47e9-a6cd-7948bb185142</webElementGuid>
+      <webElementGuid>8b11cfb8-8a52-419b-b008-21615c6764f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/preceding::span[1]</value>
-      <webElementGuid>422a2ea2-a210-4dda-b6fa-342ac69b085d</webElementGuid>
+      <webElementGuid>35751882-aff7-4888-83d6-1ad564401e93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu phân biệt chữ hoa và chữ thường.'])[1]/preceding::span[1]</value>
-      <webElementGuid>bedba167-481b-42f2-ba59-abe7d7bb1fe9</webElementGuid>
+      <webElementGuid>dd103d17-ffdb-46d7-986e-34b7dfc79e61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>f8878525-3c38-46ad-8b7c-6245bd8588bf</webElementGuid>
+      <webElementGuid>4d00cb3c-2941-4a0f-b9a1-1b4e6cacb684</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/a/span</value>
-      <webElementGuid>18a88c92-0060-43f8-bcf5-41b58496c46e</webElementGuid>
+      <webElementGuid>35c2803e-e276-4c97-b396-ad852ea80fea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>fd074ae4-f874-4a6f-8e82-a6668ed08471</webElementGuid>
+      <webElementGuid>b2c13091-b933-4f94-ab5d-0dcf57028918</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

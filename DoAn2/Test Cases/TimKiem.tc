@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TimKiem</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33d26c48-96cc-49bc-a937-231dd1f690a3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f40d7154-4297-4dc9-9739-1ba2ebfa255d</id>
+      <masked>false</masked>
+      <name>Timkiem</name>
+   </variable>
+</TestCaseEntity>

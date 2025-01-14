@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login</name>
+   <name>DoiMK</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,39 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>a93516d5-2412-47e9-b731-3b8ae8c6ae49</testSuiteGuid>
+   <testSuiteGuid>13332392-ff41-482e-af80-0370ae33d754</testSuiteGuid>
    <testCaseLink>
-      <guid>3be6dfb6-f7fd-4910-96e9-2dc37d0228d7</guid>
+      <guid>f4583a50-96ae-4562-b591-47288cfca893</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login</testCaseId>
+      <testCaseId>Test Cases/DoiMK</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>5a9acd4c-76df-4f07-a8f0-39b9869fe402</id>
+         <id>0281b599-f43e-40aa-9161-efc36507e9a6</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Data_Login</testDataId>
+         <testDataId>Data Files/Data_DoiMK</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>5a9acd4c-76df-4f07-a8f0-39b9869fe402</testDataLinkId>
+         <testDataLinkId>0281b599-f43e-40aa-9161-efc36507e9a6</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Usename</value>
-         <variableId>450e968f-f843-4223-b894-ee8c643c9b00</variableId>
+         <value>matkhaucu</value>
+         <variableId>3d3689b0-50a9-4b7f-9b53-5cd47acddc84</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5a9acd4c-76df-4f07-a8f0-39b9869fe402</testDataLinkId>
+         <testDataLinkId>0281b599-f43e-40aa-9161-efc36507e9a6</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Pass</value>
-         <variableId>721e655a-8b92-42a1-8bce-aa2a4986b5ff</variableId>
+         <value>matkhaumoi</value>
+         <variableId>2332e68d-7319-4b4b-9db0-b3f7e41c3c80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0281b599-f43e-40aa-9161-efc36507e9a6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>xacnhanmkmoi</value>
+         <variableId>d69b5ee7-a82a-4da0-8feb-1b709f1fdb1e</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

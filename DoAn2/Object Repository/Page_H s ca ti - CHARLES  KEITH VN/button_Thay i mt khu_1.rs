@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Thay i mt khu_1</name>
+   <tag></tag>
+   <elementGuidId>7920848f-e9cf-4b9f-8166-79989ea04720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#changePasswordBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='changePasswordBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4bd7e716-01fd-4541-be61-9584eb68606f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ca59f959-34bc-4ac4-be4a-f505d1a88a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>changePasswordBtn</value>
+      <webElementGuid>4685dbb9-14ed-4db6-901e-92900811d9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-with-click-validation js-recaptcha btn btn-primary--hover request_password-btn col-12 col-md-6</value>
+      <webElementGuid>13481e59-67d8-483c-aeaf-ba0ce77af03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-form-selector</name>
+      <type>Main</type>
+      <value>.js-change-password-form</value>
+      <webElementGuid>9e42df15-4333-4dcc-9cc3-6a1b4d2e6e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Thay đổi mật khẩu
+        </value>
+      <webElementGuid>4c4d513f-96dc-46e1-9cd9-47fa2805f731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;changePasswordBtn&quot;)</value>
+      <webElementGuid>b2e80ba6-c3f2-4fa8-8821-f3119fae72a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='changePasswordBtn']</value>
+      <webElementGuid>40edbb23-ebb1-478d-bec4-2f32010a796a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='changePasswordModal']/div/div/div/div[2]/div/form/div[2]/button</value>
+      <webElementGuid>753aa959-949d-474d-87d8-db06f6a70045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhập mật khẩu xác nhận của bạn'])[1]/following::button[1]</value>
+      <webElementGuid>ec5db1b3-cedf-4c57-9373-d3500e92abf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận mật khẩu mới'])[1]/following::button[1]</value>
+      <webElementGuid>55b3fc02-bd6f-4bbe-8bad-f1fa5775075a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn có chắc mình muốn'])[1]/preceding::button[2]</value>
+      <webElementGuid>0b2109c1-fe22-4009-841a-cd0d6e43bb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thoát trang'])[1]/preceding::button[2]</value>
+      <webElementGuid>00775e5d-a901-4251-9dcc-de442cb5af46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div[2]/button</value>
+      <webElementGuid>fdb55881-0826-4600-b898-8575ce1f00e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'changePasswordBtn' and (text() = '
+            Thay đổi mật khẩu
+        ' or . = '
+            Thay đổi mật khẩu
+        ')]</value>
+      <webElementGuid>5a866c7c-75e6-4f87-a5a1-bf7f39232c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

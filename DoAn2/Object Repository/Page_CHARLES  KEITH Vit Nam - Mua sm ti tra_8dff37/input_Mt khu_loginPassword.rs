@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e9c9331f-92d1-42b1-803b-3152ed2d6b53</webElementGuid>
+      <webElementGuid>db6bfe2e-7e49-4773-b690-0c59fd030d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>314cbdc6-7eff-42b1-b25c-5f434c613ff5</webElementGuid>
+      <webElementGuid>58def67e-ca3f-4c82-9ada-5fe2fdc72891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>current-password</value>
-      <webElementGuid>d5cb5d12-81b8-4bca-add0-4aa3e823d1a9</webElementGuid>
+      <webElementGuid>d3bca253-f38f-4210-bbc8-adce3ca927fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2e2b9d86-3a78-4fb3-b9a3-a93c9ece7270</webElementGuid>
+      <webElementGuid>499e41a3-cf90-42e0-b5ae-2a94804344ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>loginPassword</value>
-      <webElementGuid>2e9ba07c-a474-4977-a202-1f375186ff0b</webElementGuid>
+      <webElementGuid>d902d598-51cb-4051-961e-d101e3ad23ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Mật khẩu</value>
-      <webElementGuid>78bcabb4-281b-41cb-a3fc-cb4651b11512</webElementGuid>
+      <webElementGuid>fe47682a-cc67-4d30-b72e-2ad83b53fe25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-missing-error</name>
       <type>Main</type>
       <value>Trường này là bắt buộc</value>
-      <webElementGuid>34e5d44a-a309-4352-9688-a51588b2492c</webElementGuid>
+      <webElementGuid>ade18846-0712-4b6e-8d73-7adcca3d1074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-pattern-error</name>
       <type>Main</type>
       <value>Vui lòng nhập đúng với định dạng được yêu cầu.</value>
-      <webElementGuid>41150a0e-a8f9-42c6-a5b2-ca4a21e3f3e9</webElementGuid>
+      <webElementGuid>581f7dff-3d60-4154-ad17-56eef711f010</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>data-validation-group</name>
       <type>Main</type>
       <value>200</value>
-      <webElementGuid>3314d3ac-100e-40d0-9fe3-6b3f30a4ec1c</webElementGuid>
+      <webElementGuid>292167a1-b12e-4868-adc0-248e5635ba32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>pattern</name>
       <type>Main</type>
-      <value>(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$</value>
-      <webElementGuid>abf87e39-6653-44ee-9a60-f016dffb33f4</webElementGuid>
+      <value>^(?=.*\d)(?![.\n])(?=.*[A-Z])(?=.*[a-z])\S{8,}$</value>
+      <webElementGuid>43c80be9-f444-4676-b2e2-fb7455a15572</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;js-page-data page page--has_header  page--home&quot;]/header[@class=&quot;page_header page_header--sticky&quot;]/div[@class=&quot;container-fluid container-fluid-md container-hd page_header-inner  js-logo_wrapper&quot;]/div[@class=&quot;page_header-item page_header-txt page_header-login&quot;]/div[@class=&quot;header_login user dropdown position-static show&quot;]/div[@class=&quot;js-header_login-menu--unregistered dropdown-menu header_login-menu header_login-menu--unregistered show&quot;]/div[@class=&quot;header_login-menu_content&quot;]/form[@class=&quot;js-login_form login_form js-chain_inline_validation_form&quot;]/div[@class=&quot;form-group c-dynamic_field active focused&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>20745dd2-f3d8-4722-96b5-21bee843e26c</webElementGuid>
+      <webElementGuid>3d3ae8e9-1868-4eb1-a762-2ff0ff8c0f9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='loginPassword']</value>
-      <webElementGuid>29f04b36-2012-4a3e-952e-a75dc6e8ebda</webElementGuid>
+      <webElementGuid>e81feb5b-80aa-4eab-a9e3-7fc3806d366d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>01415f54-9fd1-430b-b884-5ef2f2ea9676</webElementGuid>
+      <webElementGuid>d669b82b-81e5-4624-8c9f-5b2bf67d374e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'loginPassword' and @placeholder = 'Mật khẩu']</value>
-      <webElementGuid>3cbfcd7d-2acd-4a12-b51e-ad33a7a89f6b</webElementGuid>
+      <webElementGuid>89bd6db8-48ba-4aed-a452-270377d38675</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
